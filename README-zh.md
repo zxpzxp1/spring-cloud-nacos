@@ -2,6 +2,10 @@
 第二.为各模块构建服务容错，分布配置中心，分布式链路追踪
 第三.服务网关，消息驱动和分布式事务。
 
+1.Nacos,LoadBalancer,OpenFeign跨服务调用
+2.Sentinel,Nacos Config,Sleuth服务容错，配置管理，分布式链路追踪
+3.Gateway,Stream,Seata实现微服务网关，消息事件驱动，分布式事务。
+
 Component | Version |  Remark
 -|-|-
 Spring Cloud | Hoxton.SR3 | Spring Cloud |
