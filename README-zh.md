@@ -1,10 +1,3 @@
-# spring-cloud-plus
-
-### [GITHUB](https://github.com/geekidea/spring-cloud-plus) | [GITEE](https://gitee.com/geekidea/spring-cloud-plus)
-
-### [springcloud.plus](http://springcloud.plus)
-
-## spring-cloud-plus V1.0 Technology Stack
 Component | Version |  Remark
 -|-|-
 Spring Cloud | Hoxton.SR3 | Spring Cloud |
@@ -32,11 +25,6 @@ mybatisplus | 3.3.1 | Dao
 
 ## Quick Start
 
-### git clone
-```text
-git clone https://github.com/geekidea/spring-cloud-plus.git
-mvn clean install
-```
 
 ## 准备工作
 ### 1. Nacos 服务发现与配置
