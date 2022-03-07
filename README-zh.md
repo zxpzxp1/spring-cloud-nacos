@@ -1,3 +1,7 @@
+第一.搭建微服务的基础功能，实现微服务之间的通信
+第二.为各模块构建服务容错，分布配置中心，分布式链路追踪
+第三.服务网关，消息驱动和分布式事务。
+
 Component | Version |  Remark
 -|-|-
 Spring Cloud | Hoxton.SR3 | Spring Cloud |
@@ -13,6 +17,8 @@ Spring Boot Admin | 2.2.2 | Spring Boot Admin |
 Spring Boot Admin | 2.2.2 | Spring Boot Admin |
 ELK | undetermined | Elasticsearch Logstash Kibana |
 mybatisplus | 3.3.1 | Dao
+
+
 
 ## 文档资料参考：
 ### Spring Cloud
