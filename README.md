@@ -1,11 +1,3 @@
-# spring-cloud-plus
-
-### [GITHUB](https://github.com/geekidea/spring-cloud-plus) | [GITEE](https://gitee.com/geekidea/spring-cloud-plus)
-
-### [springcloud.plus](http://springcloud.plus)
-
-## spring-cloud-plus V1.0 Technology Stack
-Component | Version |  Remark
 -|-|-
 Spring Cloud | Hoxton.SR3 | Spring Cloud |
 Spring Boot | 2.2.5.RELEASE | Spring Boot |
